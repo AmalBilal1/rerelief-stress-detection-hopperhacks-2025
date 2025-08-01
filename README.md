@@ -50,8 +50,3 @@ Long-Term Analytics: Track stress levels over weeks or months to identify patter
 Community Mode: Anonymous group sessions where users can share and support each other’s stress journeys.
 
 ---
-
-
-
-## 📂 Project Structure
-
